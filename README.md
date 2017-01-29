@@ -1,2 +1,5 @@
 # gophers
-random gopher graphics
+
+Random gopher graphics
+
+![gophers](gophers.png)
