@@ -2,4 +2,4 @@
 
 Random gopher graphics
 
-![gophers](gophers.png?v1)
+![gophers](https://raw.githubusercontent.com/rogeralsing/gophers/master/gophers.png?v1)
